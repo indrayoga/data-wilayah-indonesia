@@ -53,3 +53,10 @@ Dengan syarat:
 ## 📫 Kontak 💡 Kontribusi
 
 Untuk pertanyaan, saran, atau masukan silakan buat Issue
+
+## 💖 Donasi dan Dukungan
+
+Dukung aku via [Saweria](https://saweria.co/indrayoga) 🙏
+
+[![Saweria](https://img.shields.io/badge/Saweria-Dukung%20Saya-orange?style=for-the-badge&logo=coffee)](https://saweria.co/indrayoga)
+
