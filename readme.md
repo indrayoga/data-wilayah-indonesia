@@ -30,6 +30,22 @@ Berikut adalah file-file yang tersedia di repositori ini:
 └── desa.sql
 ```
 
+## Demo
+
+Pada repositori ini terdapat juga file `index.html` yang berfungsi sebagai demo untuk menampilkan data wilayah Indonesia dalam format JSON. Anda dapat menjalankan file tersebut di web server lokal. Untuk demo online, kunjungi:  
+👉 [**DEMO ONLINE**](https://wilayah-indonesia.shineborneo.com)
+
+## 🛠️ Teknologi yang Digunakan
+
+Proyek ini dibangun dengan menggunakan teknologi berikut:
+
+- **HTML** & **CSS**
+- **Tailwind CSS** – untuk styling yang efisien dan responsif
+- **Leaflet.js** – library peta interaktif berbasis JavaScript
+- **OpenStreetMap** – sebagai penyedia data peta open-source
+- **Vite.js** – sebagai bundler modern dan dev server
+- **Pandas** – untuk pengolahan dan transformasi data wilayah
+
 ## 🔍 Sumber Data dan 📝 Atribusi
 
 Seluruh data dalam repositori ini bersumber dari:
@@ -59,4 +75,3 @@ Untuk pertanyaan, saran, atau masukan silakan buat Issue
 Dukung aku via [Saweria](https://saweria.co/indrayoga) 🙏
 
 [![Saweria](https://img.shields.io/badge/Saweria-Dukung%20Saya-orange?style=for-the-badge&logo=coffee)](https://saweria.co/indrayoga)
-
